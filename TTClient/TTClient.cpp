@@ -14,7 +14,7 @@ WIN closesocket    : 소켓종료
 #pragma comment(lib, "Ws2_32.lib")
 
 #define MAX_BUFFER        1024
-#define SERVER_IP        "58.234.27.160"
+#define SERVER_IP        "10.110.31.180"
 #define SERVER_PORT        3500
 
 struct SOCKETINFO
